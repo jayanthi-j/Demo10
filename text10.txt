@@ -1,1 +1,7 @@
 create text10.txt file
+First line Change
+second line
+Third Line
+Fourth line
+
+seventh line
